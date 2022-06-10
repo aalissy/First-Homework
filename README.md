@@ -1,6 +1,6 @@
 # Code Refactor Starter Code
 ## Description
-For this project, I was tasked with updating both the html and css code of a website that follows accessibility standards. This makes it optimized for google searches and keeps the code consolidated and organized.
+For this project, I was tasked with updating both the Html and CSS code of a website that follows accessibility standards. This makes it optimized for google searches and keeps the code consolidated and organized.
 
 ## User Story
 AS A marketing agency
