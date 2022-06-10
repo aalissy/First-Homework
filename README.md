@@ -33,9 +33,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Screenshots
-![My Remote Image](https://www.dropbox.com/s/0or5f6gg5q0ty0t/Screen%20Shot%202022-06-10%20at%2010.17.05%20AM.png?dl=0)
-![My Remote Image](https://www.dropbox.com/s/d6snctwzj55he7i/Screen%20Shot%202022-06-10%20at%2010.17.17%20AM.png?dl=0)
-![My Remote Image](https://www.dropbox.com/s/oebjz8rvf2rn4kb/Screen%20Shot%202022-06-10%20at%2010.17.29%20AM.png?dl=0)
+<img width="1440" alt="Screen Shot 2022-06-10 at 10 17 05 AM" src="https://user-images.githubusercontent.com/32420245/173103320-15a700de-a928-4ec6-b58e-132129582306.png">
+<img width="1440" alt="Screen Shot 2022-06-10 at 10 17 17 AM" src="https://user-images.githubusercontent.com/32420245/173103342-9a598d51-fe63-4449-976a-69e58110f8a2.png">
+<img width="1440" alt="Screen Shot 2022-06-10 at 10 17 29 AM" src="https://user-images.githubusercontent.com/32420245/173103368-219be397-b6eb-4867-b15f-e8d24660233d.png">
 
 ## Application Link
 Application at: https://github.com/aalissy/First-Homework
